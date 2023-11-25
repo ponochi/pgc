@@ -1,2 +1,2 @@
 # pgc
-PGC is a Scripting Language CLI.
+PGC (PanGear CLI) is a Scripting Language CLI.
